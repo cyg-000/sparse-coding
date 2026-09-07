@@ -1,0 +1,12 @@
+data/
+outputs/
+figures/output/
+figures/derived/
+models/
+cache/
+*.pt
+*.npz
+*.npy
+*.json
+__pycache__/
+.venv/
